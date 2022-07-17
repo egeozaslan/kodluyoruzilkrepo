@@ -1,6 +1,7 @@
 # Kodluyoruz İlk Repo
 
 Bu repo [Kodluyoruz](www.kodluyoruz.com) Front-End eğitimi kapsamında açtığım ilk repo dosyam.
+![github](Screenshot_2.png)
 ## İçindekiler 
 ---
 * README dosyası
